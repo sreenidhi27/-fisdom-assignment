@@ -1,0 +1,5 @@
+<suite name = "Default Suite">
+    <listeners>
+        <listener class-name = "Utils.ExtentReporterNG"/>
+    </listeners>
+</suite>
