@@ -9,3 +9,8 @@ Task: Using the APIs mentioned above, did the following tasks using rest assured
 3.Use data driven testing for above example 
 4.Create a html report
 ```
+
+## Usage: 
+```
+mvn clean test -DsuiteXmlFile=testng.xml 
+```
